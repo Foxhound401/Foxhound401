@@ -23,13 +23,14 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I [ricing](https://www.reddit.com/r/unixporn/wiki/themeing/dictionary#wiki_rice) my linux box, setting up 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phuc-phung-a3057a134)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 
 ---
 
